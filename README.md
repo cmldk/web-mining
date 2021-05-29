@@ -1,5 +1,5 @@
 ## Project Description
-Prediction of Heart Failure
+Prediction of Heart Failure using different learning algorithms
 
 Kaggle Dataset Link: https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 
