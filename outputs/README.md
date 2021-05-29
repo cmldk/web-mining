@@ -1,1 +1,1 @@
-The code results can be change each time according to training and test set.
+Code results may differ each time depending on the training and test set.
